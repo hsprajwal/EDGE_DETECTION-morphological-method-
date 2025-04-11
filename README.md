@@ -53,6 +53,7 @@ The main function:
 ## Example Output
 
 When the program is running, you will see a window displaying the edges detected in the video stream. The edges are computed using morphological operations, which highlight the boundaries of objects in the frame.
+![Edge Detection Output](Screenshot 2025-04-11 222911.png)
 
 ## Notes
 
